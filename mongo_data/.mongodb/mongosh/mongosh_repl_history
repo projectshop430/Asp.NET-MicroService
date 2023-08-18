@@ -1,0 +1,7 @@
+show collections
+db.products.insertMany([ { "name": "asuse", "category": "computer", "summery": "summery", "Description": "best", "imageFile": "1.jpg", "price": "200" }, { "name": "Lenovo", "category": "computer", "summery": "summery", "Description": "best", "imageFile": "2.jpg", "price": "100" }] )
+db.createCollection('products')
+use CatalogDB
+show collections
+show Collections
+show dbs

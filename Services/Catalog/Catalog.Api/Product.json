@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Asus",
+    "Category": "Laptop",
+    "Summary": "kholase",
+    "Description": "kheyli khafane",
+    "ImageFile": "",
+    "Price": "2500€"
+  },
+  {
+    "Name": "Sony",
+    "Category": "LapTop",
+    "Summary": "Kholase",
+    "Description": "bahale",
+    "ImageFile": "",
+    "Price": "100€"
+  }
+
+]
